@@ -1,0 +1,15 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 16px;
+}
+h1 {
+    font-size: 4rem;
+    text-align: center;
+    color: teal;
+}
+span{
+    font-size: 2rem;
+}
