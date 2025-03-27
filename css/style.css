@@ -1,21 +1,23 @@
+.root {
+    --blanco: #FFFFFF;
+    --morado: #581845;
+    --oscuro: #000000;
+    --fuxia: #9003CF;
+
+}
 html{
     font-size: 62.5%;
 }
 
+
 body{
+    font-family: "Quicksand", sans-serif;
     font-size: 16px;
 }
 .titulo {
     text-align: center;
     font-size: 3.8rem;
-    color: teal;
 }
 .titulo span{
-    text-align: center;
     font-size: 2rem;
-}
-
-section h2, p{
-    text-align: center;
-    color: rgb(16, 205, 238);
 }
