@@ -3,8 +3,8 @@
     --morado: #581845;
     --oscuro: #000000;
     --fuxia: #9003CF;
-
 }
+
 html{
     font-size: 62.5%;
 }
@@ -20,4 +20,15 @@ body{
 }
 .titulo span{
     font-size: 2rem;
+}
+
+.container{
+    width: 120rem;
+    margin: 0 auto;
+}
+
+.navegacion-principal{
+    text-align: center;
+    font-style: oblique;
+    background-color: #16769c;
 }
